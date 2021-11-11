@@ -16,7 +16,7 @@
   
 ## Project Description 
 
-![screenshot](ss1.png)
+![screenshot](img/ss1.png)
 
 
 
@@ -33,7 +33,7 @@ The goal of this project is to make a simulation that enables to sell movie tick
 
 <h2 align="center">Links</h2>
 
-Write up documentation: [here](writeup.pdf)
+Write up documentation: [here](resource/writeup.pdf)
 
 
 
@@ -55,8 +55,6 @@ Jieun Lee <a href="https://www.linkedin.com/in/jieun-lee-a14379221/"><img src="h
 <a href="https://mail.google.com/mail/u/?authuser=jinnywinny3@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/?authuser=jinnywinny3@gmail.com"/></a>
 
 
-
-Project Link: [https://github.com/JinnnyWinnny/Projects](https://github.com/JinnnyWinnny/Projects)
 
 
 
